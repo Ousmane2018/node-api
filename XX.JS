@@ -1,1 +1,1 @@
-TextMetrics.
+TextMetrics.apply()
