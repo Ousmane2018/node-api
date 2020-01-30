@@ -1,1 +1,20 @@
 
+Pour ajouter des fichiers ou dossier
+git add *
+
+ajouter le repertoire xxx
+git add xxx
+
+ajouter le fichier xyz.txt
+
+git add xyz.txt
+
+Commiter
+git commit -am "Message du commit"
+
+Pousser les repository local dans github
+git push -u origin2 master
+
+
+Descendre des fichiers vers local
+git pull origin2 master
