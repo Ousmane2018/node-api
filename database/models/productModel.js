@@ -1,8 +1,9 @@
 const mongoose = require('mongoose');
 const productschema = mongoose.Schema({
   name :String,
-  price: Number,
-  brand:String
+  brand:String,
+  price:Number
+  
 
 },{
   timestamps:true,
